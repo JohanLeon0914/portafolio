@@ -16,26 +16,31 @@ export const skills = [
     },
     {
         id: 4,
+        skill:'Angular',
+        porcentaje:'65%'
+    },
+    {
+        id: 5,
         skill:'HTML',
         porcentaje:'80%'
     },
     {
-        id: 5,
+        id: 6,
         skill:'CSS',
         porcentaje:'65%'
     },
     {
-        id: 6,
+        id: 7,
         skill:'MySQL',
         porcentaje:'75%'
     },
     {
-        id: 7,
+        id: 8,
         skill:'MongoDB',
         porcentaje:'65%'
     },
     {
-        id: 8,
+        id: 9,
         skill:'GIT',
         porcentaje:'65%'
     }

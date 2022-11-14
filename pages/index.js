@@ -34,12 +34,13 @@ export default function Home() {
                 </div>
                 <div className='col-md-8'>
                   <h1><b>Johan Alberto León Serrano</b></h1>
-                    <h3>FullStack Developer</h3>
+                    <h3>Frontend Developer</h3>
                     <p>Soy un estudiante de ingeniera
                         de sistemas con experiencia en el
-                        desarrollo backend y frontend con
-                        tecnologías como NodeJS, Reactjs y
-                        Nextjs. Cuento tambien con experiencia
+                        desarrollo backend y frontend, especialmente en este ultimo,
+                        con experiencia en 
+                        tecnologías como NodeJS, Reactjs, Angular, Nextjs, Bootstrap y Git
+                        . Cuento tambien con experiencia
                         en el manejo de bases de datos relacionales
                         como Mysql y no relacionales como MongoDB.
                         <br></br>
@@ -51,7 +52,7 @@ export default function Home() {
                         profesional.
                     </p>
                     <Link href='/contacto'>
-                      <a className='btn btn-light' >Contáctame</a>
+                      <a className='btn btn-light' >Contáctame: 3245603239</a>
                     </Link>
                 </div>
               </div>
@@ -82,7 +83,7 @@ export default function Home() {
                 <hr />
                 <br />
                 <h4> <b>Direccion:</b> <p>calle 20 8A#58 Cuberos niños</p> </h4>
-                <h4> <b>Telefono Celular:</b> <p>3114822965</p> </h4>
+                <h4> <b>Telefono Celular:</b> <p>3245603239</p> </h4>
                 <h4> <b>Telefono Fijo:</b> <p>5724659</p> </h4>
                 <h4> <b>Correo electronico:</b> <p>johanleon991@gmail.com</p> </h4>
                 <h4> <b>Linkedin:</b> <a href='https://www.linkedin.com/in/johan-alberto-leon-18b688229/' target='__blank'>linkedin.com/in/johan-alberto-leon-18b688229/ </a> </h4>
@@ -97,11 +98,11 @@ export default function Home() {
                 <hr />
                 <ul>
                   <li>
-                    <h3>Desarrollador FullStack en semillero de investigación VIRAL </h3>
+                    <h3>Desarrollador frontend en semillero de investigación VIRAL </h3>
                     <h4>2018-Actualidad</h4>
-                    <p>Me encarga de desarrollar funcionalidades para la pagina web del semillero
+                    <p>Me encarga de desarrollar componentes frontend para la pagina web del semillero
                       de investigación de mi universidad, manejaba tanto la parte de Backend con NodeJS
-                      y tambien hacia el enmaquetado basico con Reactjs. <br />
+                      y tambien hacia el enmaquetado basico con Reactjs y Angular. <br />
                       Tambien me encarga del manejo la base de datos la cual estaba implementada en MySQL.
                     </p>
                   </li>

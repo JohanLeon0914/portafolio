@@ -52,7 +52,7 @@ export default function Home() {
                         profesional.
                     </p>
                     <Link href='/contacto'>
-                      <a className='btn btn-light' >Contáctame: 3245603239</a>
+                      <a className='btn btn-light' >Contáctame</a>
                     </Link>
                 </div>
               </div>

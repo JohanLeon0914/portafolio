@@ -165,12 +165,12 @@ export default function Home() {
                       ))
                     }
                   </div>
-                    <div className='text-center mt-2'>
+                    {/* <div className='text-center mt-2'>
                       <Link href='/portafolio'>
                         <a className='btn btn-outline-light'>Más proyectos</a>
 
                        </Link>
-                     </div>
+                     </div> */}
               </div>
               </div>
           </div>

@@ -1,6 +1,7 @@
 
 import { useEffect } from "react";
 import Navbar from "./Navbar";
+import Header from "./Header";
 import Head from "next/head";
 import { useRouter } from "next/router";
 import nProgress from "nprogress";

@@ -1,4 +1,4 @@
-import Link from "next/link"
+import Link from "next/link";
 
 const Navbar = () => (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -25,6 +25,7 @@ const Navbar = () => (
   </div>
         </div>
     </nav>
-)
+  
+);
 
-export default Navbar
+export default Navbar;

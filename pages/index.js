@@ -36,10 +36,10 @@ export default function Home() {
                   <h1><b>Johan Alberto León Serrano</b></h1>
                     <h3>Frontend Developer</h3>
                     <p>Soy un estudiante de ingeniera
-                        de sistemas con experiencia en el
+                        de sistemas con especializado en el
                         desarrollo backend y frontend, especialmente en este ultimo,
                         con experiencia en 
-                        tecnologías como NodeJS, Reactjs, Angular, Nextjs, Bootstrap y Git
+                        tecnologías como Reactjs, Angular, Nextjs, Nodejs, Bootstrap y Git
                         . Cuento tambien con experiencia
                         en el manejo de bases de datos relacionales
                         como Mysql y no relacionales como MongoDB.
@@ -48,8 +48,8 @@ export default function Home() {
                         profesional al siguiente nivel,
                         aplicando todos mis
                         conocimientos adquiridos en los
-                        últimos años de manera
-                        profesional.
+                        últimos años de mi carrera en el mundo
+                        laboral.
                     </p>
                     <Link href='/contacto'>
                       <a className='btn btn-light' >Contáctame: 3245603239</a>
@@ -165,12 +165,6 @@ export default function Home() {
                       ))
                     }
                   </div>
-                    <div className='text-center mt-2'>
-                      <Link href='/portafolio'>
-                        <a className='btn btn-outline-light'>Más proyectos</a>
-
-                       </Link>
-                     </div>
               </div>
               </div>
           </div>

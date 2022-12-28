@@ -165,15 +165,6 @@ export default function Home() {
                       ))
                     }
                   </div>
-<<<<<<< HEAD
-=======
-                    {/* <div className='text-center mt-2'>
-                      <Link href='/portafolio'>
-                        <a className='btn btn-outline-light'>Más proyectos</a>
-
-                       </Link>
-                     </div> */}
->>>>>>> 255c89c93a5bb97b7e47aeab71a2fef586ffbe33
               </div>
               </div>
           </div>

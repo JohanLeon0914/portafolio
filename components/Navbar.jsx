@@ -11,7 +11,9 @@ function Navbar() {
 
 	return (
 		<header className="header">
-			<h3>Portafolio</h3>
+      <Link href="/">
+          <a><h3>Portafolio</h3></a>
+        </Link>
 			<nav ref={navRef}>
         <Link href="/">
           <a>Home</a>

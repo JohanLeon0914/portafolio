@@ -24,20 +24,16 @@ export const Mailer = () => {
 
     return (
       <>
-        <div className='div-form'>
-        <form className={styles.form} onSubmit={sendEmail}>
+        <div className={styles.divForm}>
+        <form className="form-group" onSubmit={sendEmail}>
           <label>Nombre</label>
-          <input type="text" name='user_name' className={styles.controls}/>
-          <hr />
-  
+          <input type="text" name='user_name' className="form-control"/>
+          
           <label>Email</label>
-          <input type="email" name='user_email' className={styles.controls}/>
-          <hr />
+          <input type="email" name='user_email' className="form-control"/>
   
           <label>Mensaje</label>
-          <textarea name="user_message" id="" cols="30" rows="10" className={styles.controls}></textarea>
-          <hr />
-
+          <textarea name="user_message" id="" cols="30" rows="10" className="form-control"></textarea>
 
           <button className={styles.botons} onClick={() => mostrarAlerta()}>Enviar</button>
         </form>

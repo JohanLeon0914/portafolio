@@ -9,6 +9,7 @@
     color: white;
     box-shadow: 7px 13px 37px #000;
   }
+
   
   .form h4 {
     font-size: 22px;
@@ -43,8 +44,10 @@
     color: white;
     text-decoration: underline;
   }
+
   
-  .form .botons {
+  
+  .botons {
     width: 100%;
     background: #5cb85c;
     border: none;

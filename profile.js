@@ -51,7 +51,7 @@ export const proyectos = [
         title: 'Chat nextjs and firebase',
         description: 'Una aplicación de chat funcional, hecha con Nextjs y firebase, permite a los usuarios loguearse y enviar chats a otros usuarios y grupos de chat a tiempo real, mostrandoles la hora en que fue enviada el mensaje.',
         image: 'chat.png',
-        url: 'https:boomerland-private-chat.netlify.app/'
+        url: 'https://boomerland-private-chat.netlify.app/'
     },
     {
         title: 'CryptoBot Telegram',

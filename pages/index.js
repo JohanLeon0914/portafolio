@@ -82,7 +82,6 @@ export default function Home() {
                 <h1 className='text-center'>Contacto</h1>
                 <hr />
                 <br />
-                <h4> <b>Direccion:</b> <p>calle 20 8A#58 Cuberos niños</p> </h4>
                 <h4> <b>Telefono Celular:</b> <p>3245603239</p> </h4>
                 <h4> <b>Telefono Fijo:</b> <p>5724659</p> </h4>
                 <h4> <b>Correo electronico:</b> <p>johanleon991@gmail.com</p> </h4>

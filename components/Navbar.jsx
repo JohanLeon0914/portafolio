@@ -1,7 +1,41 @@
 import Link from "next/link";
+import { useRef } from "react";
+import { FaBars, FaTimes } from "react-icons/fa";
 
-const Navbar = () => (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+function Navbar() {
+	const navRef = useRef();
+
+	const showNavbar = () => {
+		navRef.current.classList.toggle("responsive_nav");
+	};
+
+	return (
+		<header className="header">
+			<h3>Portafolio</h3>
+			<nav ref={navRef}>
+        <Link href="/">
+          <a>Home</a>
+        </Link>
+				<Link href="/github">
+          <a>Github</a>
+        </Link>
+        <Link href="/contacto">
+          <a>Contáctame</a>
+        </Link>
+				<button
+					className="nav-btn nav-close-btn"
+					onClick={showNavbar}>
+					<FaTimes />
+				</button>
+			</nav>
+			<button className="nav-btn" onClick={showNavbar}>
+				<FaBars />
+			</button>
+		</header>
+	);
+}
+
+{/* <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container">
             <Link href="/">
                 <a className="navbar-brand" >Portafolio</a>
@@ -24,8 +58,6 @@ const Navbar = () => (
     </ul>
   </div>
         </div>
-    </nav>
-  
-);
+    </nav> */}
 
 export default Navbar;

@@ -13,7 +13,7 @@ const Github = ({ data, statusCode }) => {
         <Layout 
             title='Github' 
             description='Mi pagina de github con todos mis proyectos personales'
-            footer={false}>
+            footer={true}>
             <div className="row">
                 <div className="col-md-4 offset-md-4">
                     <div className={styles.container}>

@@ -35,7 +35,7 @@ export default function Home() {
                 <div className='col-md-8'>
                   <h1><b>Johan Alberto León Serrano</b></h1>
                     <h3>Frontend Developer</h3>
-                    <p>Soy un estudiante de ingeniera
+                    <p>Soy un estudiante de ingeniería
                         de sistemas con especializado en el
                         desarrollo backend y frontend, especialmente en este ultimo,
                         con experiencia en 

@@ -54,6 +54,24 @@ export const proyectos = [
         url: 'https://boomerland-private-chat.netlify.app/'
     },
     {
+        title: 'Generador de imagenes apartir de texto con OpenAI y Nextjs',
+        description: 'Una aplicación que atravez de texto genera una imagen con ayuda de la api de OpenAI.',
+        image: 'image.png',
+        url: 'https://github.com/JohanLeon0914/openai-image-generator'
+    },
+    {
+        title: 'Chat con IA',
+        description: 'Una aplicación de chat en la cual puedes hacer preguntas que seran respondidas con ayuda de la api de OpenAI, esta realizada con Nextjs y se basa en el model gp3 con el cual tambien trabaja ChatGPT.',
+        image: 'text.png',
+        url: 'https://github.com/JohanLeon0914/openAI'
+    },
+    {
+        title: 'CryptoTracker',
+        description: 'Una aplicación hecha en Angular que con ayuda de una API externa puede consultar precios y demas datos sobre cryptomonedas, tambien cuenta con un buscador que filtra las criptomonedas.',
+        image: 'criptos.png',
+        url: 'https://angular-cryptomonedas.vercel.app'
+    },
+    {
         title: 'CryptoBot Telegram',
         description: 'Un bot de telegram que permitia a los usuarios dar seguimiento a las criptomonedas de su preferencias, para de que de esta manera el bot pudiera enviarle noticias y actualizaciones de precios cada cierto tiempo.',
         image: 'bot.jpg',

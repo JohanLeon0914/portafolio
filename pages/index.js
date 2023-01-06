@@ -36,8 +36,8 @@ export default function Home() {
                   <h1><b>Johan Alberto León Serrano</b></h1>
                     <h3>Frontend Developer</h3>
                     <p>Soy un estudiante de ingeniería
-                        de sistemas con especializado en el
-                        desarrollo backend y frontend, especialmente en este ultimo,
+                        de sistemas especializado en el
+                        desarrollo web, especialmente en el frontend,
                         con experiencia en 
                         tecnologías como Reactjs, Angular, Nextjs, Nodejs, Bootstrap y Git
                         . Cuento tambien con experiencia

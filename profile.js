@@ -57,7 +57,7 @@ export const proyectos = [
         title: 'Chat con IA',
         description: 'Una aplicación de chat en la cual puedes hacer preguntas que serán respondidas con ayuda de la api de OpenAI, está realizada con Nextjs y se basa en el modelo gp3 con el cual trabaja ChatGPT.',
         image: 'text.png',
-        url: 'https://github.com/JohanLeon0914/openAI'
+        url: 'https://chat-openai.netlify.app'
     },
     {
         title: 'Clon de Netflix',

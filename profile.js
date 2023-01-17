@@ -61,7 +61,7 @@ export const proyectos = [
     },
     {
         title: 'Clon de Netflix',
-        description: 'Un clon de netflix realizado con nextjs, typescript y tailwind CSS, hecho con ayuda de una API de películas con el cual puedo mostrar las diferentes tendencias, diferentes géneros y demás opciones.',
+        description: 'Un clon de netflix realizado con nextjs, typescript y tailwind CSS, hecho con ayuda de una API de películas con el cual puedo mostrar las diferentes tendencias, géneros y demás opciones.',
         image: 'netflix.png',
         url: 'https://netflix-clon-dun.vercel.app'
     },

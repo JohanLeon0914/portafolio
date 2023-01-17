@@ -99,10 +99,9 @@ export default function Home() {
                   <li>
                     <h3>Desarrollador frontend en semillero de investigación VIRAL </h3>
                     <h4>2018-Actualidad</h4>
-                    <p>Me encarga de desarrollar componentes frontend para la pagina web del semillero
-                      de investigación de mi universidad, manejaba tanto la parte de Backend con NodeJS
-                      y tambien hacia el enmaquetado basico con Reactjs y Angular. <br />
-                      Tambien me encarga del manejo la base de datos la cual estaba implementada en MySQL.
+                    <p>Me encargue de desarrollar componentes frontend para la página web del semillero
+                      de investigación de mi universidad, manejaba tanto la parte de Backend con NodeJS, también realizaba el enmaquetado básico con Reactjs y Angular. <br />
+                      Me encargaba del manejo de la base de datos la cual estaba implementada en MySQL.
                     </p>
                   </li>
                 </ul>
@@ -131,7 +130,7 @@ export default function Home() {
                 <h1>Formación educativa</h1>
                     <h2>Universitaria:</h2>
                     <h4>Universidad Fransisco de Paula Santander</h4>
-                    <h4>Jun 2017 - Actualidad</h4>
+                    <h4>Jun 2018 - Actualidad</h4>
                     <div className='col-auto p-5 text-center'>
                     <Image
                       src='/img/UFPS_Logo.png'
@@ -140,7 +139,7 @@ export default function Home() {
                       height={248.5}
                     >
                     </Image>
-                    <h4>Ingeniera en sistemas</h4>
+                    <h4>Ingeniería en sistemas</h4>
                     </div>
 
               </div>

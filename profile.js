@@ -54,10 +54,10 @@ export const proyectos = [
         url: 'https://boomerland-private-chat.netlify.app/'
     },
     {
-        title: 'Generador de imagenes apartir de texto con OpenAI y Nextjs',
-        description: 'Una aplicación que a través de texto genera una imagen con ayuda de la api de OpenAI.',
-        image: 'image.png',
-        url: 'https://github.com/JohanLeon0914/openai-image-generator'
+        title: 'Chat con IA',
+        description: 'Una aplicación de chat en la cual puedes hacer preguntas que serán respondidas con ayuda de la api de OpenAI, está realizada con Nextjs y se basa en el modelo gp3 con el cual trabaja ChatGPT.',
+        image: 'text.png',
+        url: 'https://github.com/JohanLeon0914/openAI'
     },
     {
         title: 'Clon de Netflix',
@@ -66,10 +66,10 @@ export const proyectos = [
         url: 'https://netflix-clon-dun.vercel.app'
     },
     {
-        title: 'Chat con IA',
-        description: 'Una aplicación de chat en la cual puedes hacer preguntas que serán respondidas con ayuda de la api de OpenAI, está realizada con Nextjs y se basa en el modelo gp3 con el cual trabaja ChatGPT.',
-        image: 'text.png',
-        url: 'https://github.com/JohanLeon0914/openAI'
+        title: 'Generador de imagenes apartir de texto con OpenAI y Nextjs',
+        description: 'Una aplicación que a través de texto genera una imagen con ayuda de la api de OpenAI.',
+        image: 'image.png',
+        url: 'https://github.com/JohanLeon0914/openai-image-generator'
     },
     {
         title: 'CryptoTracker',

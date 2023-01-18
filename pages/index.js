@@ -37,7 +37,7 @@ export default function Home() {
                     <h3>Frontend Developer</h3>
                     <p>Soy un estudiante de ingeniería
                         de sistemas especializado en el
-                        desarrollo web, especialmente en el frontend,
+                        desarrollo web, mayormente en el frontend,
                         con experiencia en 
                         tecnologías como Reactjs, Angular, Nextjs, Nodejs, Bootstrap y Git
                         . Cuento tambien con experiencia
